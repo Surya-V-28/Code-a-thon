@@ -1,0 +1,16 @@
+
+
+
+/* src/components/ImageUpload.css */
+.upload-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  .upload-container input,
+  .upload-container button {
+    margin: 10px;
+  }
+  

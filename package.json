@@ -10,9 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "autoprefixer": "^10.4.20",
     "axios": "^1.7.3",
     "postcss": "^8.4.41",
+=======
+    "firebase": "^10.12.5",
+>>>>>>> b48251653dad132fa0825459ae26d6a10c310b19
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "tailwindcss": "^3.4.9"
